@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video
 > Recommended layout after download:
 ```
 repo/
-├─ data/
+├─ Dataset/
 │  ├─ <class_name>/
 │  │   ├─ clip1.mp4
 │  │   └─ ...
